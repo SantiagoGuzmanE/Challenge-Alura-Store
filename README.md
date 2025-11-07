@@ -75,5 +75,5 @@ El **Sr. Juan** desea conocer **qué tienda genera menos ingresos**, considerand
 
 **SANTIAGO GUZMAN ESCOBAR**  
 Proyecto realizado para el programa **Oracle Next Education (ONE) - Alura LATAM**.  
-📧 *Contacto:* santiagoguz42@gmail.com  
-🌐 *Repositorio:* [GitHub](https://github.com/SantiagoGuzmanE/Challenge-Alura-Store)
+*Contacto:* santiagoguz42@gmail.com  
+*Repositorio:* [GitHub](https://github.com/SantiagoGuzmanE/Challenge-Alura-Store)
